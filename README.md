@@ -1,4 +1,1 @@
 # gitsetup
-
-
-hello world
